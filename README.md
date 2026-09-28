@@ -23,13 +23,7 @@
 
 ---
 
-### 🚀 Featured Projects
 
-- **[Document Q&A System (RAG + LLMs)](https://github.com/kaustubhpawar02/REPO_LINK)** — RAG-based PDF question answering using FAISS and Llama3
-- **[Marvellous SmartHire – AI Mock Interview Agent](https://github.com/kaustubhpawar02/REPO_LINK)** — LLM-powered mock interview system with scored feedback
-- **[Real-Time Emotion Detection (CNN + OpenCV)](https://github.com/kaustubhpawar02/REPO_LINK)** — Facial emotion recognition from live webcam video
-- **[Stock Price Forecasting (LSTM)](https://github.com/kaustubhpawar02/REPO_LINK)** — Time-series forecasting on stock data
-- **[Industrial ML Pipeline & Case Studies](https://github.com/kaustubhpawar02/REPO_LINK)** — End-to-end ML pipelines across multiple datasets
 
 
 ---
