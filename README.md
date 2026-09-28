@@ -31,7 +31,6 @@
 - **[Stock Price Forecasting (LSTM)](https://github.com/kaustubhpawar02/REPO_LINK)** — Time-series forecasting on stock data
 - **[Industrial ML Pipeline & Case Studies](https://github.com/kaustubhpawar02/REPO_LINK)** — End-to-end ML pipelines across multiple datasets
 
-*(Replace REPO_LINK with each project's actual repository name)*
 
 ---
 
